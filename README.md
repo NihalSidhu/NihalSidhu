@@ -19,7 +19,7 @@ To add a chart of projects
 
 ### Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/nihalsidhu/)
+- [Linkedin](https://www.linkedin.com/in/nihal-sidhu/)
 
 <!--
 **NihalSidhu/NihalSidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
