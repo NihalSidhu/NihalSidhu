@@ -22,6 +22,7 @@ Hello there, I'm Nihal! I am currently a software engineer who enjoys playing wi
 ### Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/nihal-sidhu/)
+- [Email](nihalsidhu1@gmail.com)
 
 <!--
 **NihalSidhu/NihalSidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
