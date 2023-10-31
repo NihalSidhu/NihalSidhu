@@ -11,7 +11,7 @@ Hello there, I'm Nihal! I am currently a software engineer who enjoys playing wi
 ### Projects
 | Project | Tools Used | Skills | Project Description | 
 |---|---|---|---|
-|[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas, Seaborn)|Data cleaning, data processing and model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional counterpart using Python on Jupyter Notebook.|
+|[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas & Seaborn)|Data cleaning, data processing and model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional counterpart using Python on Jupyter Notebook.|
 
 
 ### Tools (To potentially remove?)
