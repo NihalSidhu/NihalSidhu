@@ -9,8 +9,9 @@ Hello there, I'm Nihal! I am currently a software engineer who enjoys playing wi
 
 
 ### Projects
+| Project | Tools Used | Skills | Project Description | 
+|---|---|---|---|
 
-To add a chart of projects
 
 ### Tools
 
