@@ -1,4 +1,25 @@
-### Hi there 👋
+### Get to Know Me
+
+Hello there, I'm Nihal! I am currently a software engineer who enjoys playing with data in my free time. I have experience in most things data, whether it be data engineer, analysis, modelling or query optimization.
+
+- Data pipeline engineering as a software engineer
+- Model development and data analysis using Python data science oriented libraries
+- Querying data in SQL
+- Providing visual insights and dashboards within Tableau
+
+
+### Projects
+
+To add a chart of projects
+
+### Tools
+
+- Language: SQL, Python
+- Visualization: Tableau
+
+### Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/nihalsidhu/)
 
 <!--
 **NihalSidhu/NihalSidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
