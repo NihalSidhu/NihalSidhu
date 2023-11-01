@@ -11,8 +11,11 @@ Hello there, I'm Nihal! I am currently a software engineer who enjoys playing wi
 ### Projects
 | Project | Tools Used | Skills | Project Description | 
 |---|---|---|---|
-|[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas & Seaborn)|Data cleaning, data processing and model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional counterpart using Python on Jupyter Notebook.|
-|[Stacking Players](https://github.com/NihalSidhu/Stacking-Players)|Python (Pandas, Seaborn & Matplotlib)|Data processing, model deployment/analysis and correlations| Dove into positional relationships in the NFL to understand what positions it made sense to start from the same team in a fantasy football lineup|
+|[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas & Seaborn)|Data cleaning, data processing and model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional counterpart using Python in Jupyter Notebook.|
+|[Stacking Players](https://github.com/NihalSidhu/Stacking-Players)|Python (Pandas, Seaborn & Matplotlib)|Data processing, model deployment/analysis and correlations| Dove into positional relationships in the NFL to understand what positions it made sense to start from the same team in a fantasy football lineup using Python in Jupyter Notebook|
+|[Usage vs Points Scored](https://github.com/NihalSidhu/Usage-vs-Points)|Python (Pandas, Seaborn & Matplotlib)|Data processing, data visualization and regression analysis| Researched into the link between usage and points scored in fantasy football to help understand how usage can be used to predict future fantasy football performance. Developed with Python in Jupyter Notebok|
+
+
 
 ### Tools (To potentially remove?)
 
