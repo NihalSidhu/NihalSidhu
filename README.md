@@ -16,7 +16,7 @@ Hello there, I'm Nihal! I am currently a software engineer who enjoys playing wi
 
 ### Tools (To potentially remove?)
 
-- Language: SQL, Python
+- Language: SQL, Python (Pandas, Seaborn, Matplotlib)
 - Visualization: Tableau
 
 ### Connect with Me
