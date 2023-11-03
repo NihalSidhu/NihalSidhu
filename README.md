@@ -14,8 +14,10 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 |[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas & Seaborn)|Data cleaning, data blending & model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional NFL counterpart |
 |[Stacking Players](https://github.com/NihalSidhu/Stacking-Players)|Python (Pandas, Seaborn & Matplotlib)|Data processing, model deployment & correlation analysis| Designed an optimal starting lineup strategy in fantasy football based on positional relationships and underlying player performance data|
 |[Usage vs Points Scored](https://github.com/NihalSidhu/Usage-vs-Points)|Python (Pandas, Seaborn & Matplotlib)|Data processing, data visualization & regression analysis| Found how player usage is linked to player production and how usage can be leveraged to make future fantasy football decisions|
+|[Touchdown Regression Candidates](https://github.com/NihalSidhu/Runningback-Touchdown-Regression) |Python||Developed a model to find which runningbacks overperformed and underperformed their expected touchdowns in 2022|
 |[SQL Case Studies](https://github.com/NihalSidhu/Data-with-Danny-SQL-Challenge) |SQL|Joins, nested queries & aggregations| Solutions to various SQL case study challenges to showcase my proficiency in SQL|
 
+https://github.com/NihalSidhu/Usage-vs-Points](https://github.com/NihalSidhu/Data-with-Danny-SQL-Challenge
 
 ### Tools 
 
