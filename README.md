@@ -1,6 +1,6 @@
 # Get to Know Me
 
-Hello there, I'm Nihal! I am currently a software engineer who likes to play around with data in my free time. I enjoy showing stories using all different kinds of datasets. Some of skills and experiences that I have include:
+Hello there, I'm Nihal! I am currently a software engineer who likes to play around with data in my free time. I enjoy showing stories using all different kinds of datasets. Some of skills and experiences that I have:
 
 - Data pipeline engineering in the financial regulatory reporting realm
 - Data cleaning and model development using Python data science oriented libraries
