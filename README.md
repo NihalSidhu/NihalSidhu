@@ -17,7 +17,6 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 |[Usage vs Points Scored](https://github.com/NihalSidhu/Usage-vs-Points)|Python (Pandas, Seaborn & Matplotlib)|Data visualization & regression analysis| Found how player usage is linked to player production and how usage can be leveraged to make future fantasy football decisions|
 |[SQL Case Studies](https://github.com/NihalSidhu/Data-with-Danny-SQL-Challenge) |SQL|Joins, nested queries & aggregations| Solutions to various SQL case study challenges to showcase my proficiency in SQL|
 
-https://github.com/NihalSidhu/Usage-vs-Points](https://github.com/NihalSidhu/Data-with-Danny-SQL-Challenge
 
 ## Tools 
 
