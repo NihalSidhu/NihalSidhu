@@ -27,7 +27,7 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 ## Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/nihal-sidhu/)
-- [Email](nihalsidhu1@gmail.com)
+- [Email](mailto:nihalsidhu1@gmail.com)
 - [Resume]()
 
 <!--
