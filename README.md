@@ -21,7 +21,7 @@ https://github.com/NihalSidhu/Usage-vs-Points](https://github.com/NihalSidhu/Dat
 
 ## Tools 
 
-- Language: Python, SQL,Java, & HTML
+- Language: Python, SQL, Java, & HTML
 - Visualization: Tableau
 - Libraries: Pandas, Numpy, Seaborn, & Matplotlib
 
