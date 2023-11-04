@@ -1,4 +1,4 @@
-### Get to Know Me
+# Get to Know Me
 
 Hello there, I'm Nihal! I am currently a software engineer who likes to play around with data in my free time. I enjoy showing stories using all different kinds of datasets. Some of skills and experiences that I have include:
 
@@ -8,7 +8,7 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 - Querying data to solve problems in SQL
 
 
-### Projects
+## Projects
 | Project | Tools Used | Skills | Project Description | 
 |---|---|---|---|
 |[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas & Seaborn)|Data cleaning, data blending & model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional NFL counterpart |
@@ -19,13 +19,13 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 
 https://github.com/NihalSidhu/Usage-vs-Points](https://github.com/NihalSidhu/Data-with-Danny-SQL-Challenge
 
-### Tools 
+## Tools 
 
 - Language: Python, SQL,Java, & HTML
 - Visualization: Tableau
 - Libraries: Pandas, Numpy, Seaborn, & Matplotlib
 
-### Connect with Me
+## Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/nihal-sidhu/)
 - [Email](nihalsidhu1@gmail.com)
