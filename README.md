@@ -4,7 +4,7 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 
 - Data pipeline engineering in the financial regulatory reporting realm
 - Data cleaning and model development using Python data science oriented libraries
-- Providing visual insights and research within Tableau
+- Displaying visual insights and research within Tableau
 - Querying data to solve problems in SQL
 
 
