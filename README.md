@@ -22,7 +22,7 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 ## Tools 
 
 - Language: Python, SQL, Java, & HTML
-- Analytics: Pandas & NumPy
+- Analytics Packages: Pandas & NumPy
 - Visualization: Tableau, Seaborn, & Matplotlib
 
 ## Connect with Me
