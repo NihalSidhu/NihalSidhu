@@ -22,8 +22,8 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 ## Tools 
 
 - Language: Python, SQL, Java, & HTML
-- Visualization: Tableau
-- Libraries: Pandas, Numpy, Seaborn, & Matplotlib
+- Analytics: Pandas & NumPy
+- Visualization: Tableau, Seaborn, & Matplotlib
 
 ## Connect with Me
 
