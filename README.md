@@ -29,7 +29,8 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 
 - [Linkedin](https://www.linkedin.com/in/nihal-sidhu/)
 - [Email](mailto:nss94@cornell.edu)
-- [Resume]()
+- [Resume](https://github.com/NihalSidhu/NihalSidhu/files/13934862/NihalSidhuResume_GitHub.pdf)
+
 
 <!--
 **NihalSidhu/NihalSidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
