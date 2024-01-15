@@ -16,7 +16,7 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 |[Stacking Players](https://github.com/NihalSidhu/Stacking-Players)|Python (Pandas, Seaborn & Matplotlib)|Data processing, model deployment & correlation analysis| Designed an optimal starting lineup strategy in fantasy football based on positional relationships and underlying player performance data|
 |[Usage vs Points Scored](https://github.com/NihalSidhu/Usage-vs-Points)|Python (Pandas, Seaborn & Matplotlib)|Data visualization & regression analysis| Found how player usage is linked to player production and how usage can be leveraged to make future fantasy football decisions|
 |[SQL Case Studies](https://github.com/NihalSidhu/Data-with-Danny-SQL-Challenge) |SQL|Joins, nested queries & aggregations| Solutions to various SQL case study challenges to showcase my proficiency in SQL|
-|[Housing Analysis Dashboard](https://public.tableau.com/app/profile/nihal.sidhu/viz/NYHousingMarketDashboard/NYDashboard?publish=yes) |Tableau|Data Visualizations & Analytics| Dashboard used to understand the current state of the New York housing market|
+|[New York Housing Analysis Dashboard](https://public.tableau.com/app/profile/nihal.sidhu/viz/NYHousingMarketDashboard/NYDashboard?publish=yes) |Tableau|Data Visualizations & Analytics| Dashboard used to understand the current state of the New York housing market|
 
 
 ## Tools 
