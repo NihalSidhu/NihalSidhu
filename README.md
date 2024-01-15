@@ -11,9 +11,9 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 ## Projects
 | Project | Tools Used | Skills | Project Description | 
 |---|---|---|---|
-|[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas & Seaborn)|Data cleaning, data blending & model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional NFL counterpart |
 |[Predicting Touchdowns](https://github.com/NihalSidhu/Runningback-Touchdown-Regression) |Python (Numpy, Pandas, Seaborn & NFL libraries)|Data merging, regression model & probability aggregation|Discovered which runningbacks overperformed and underperformed their expected touchdowns in 2022 to help predict future touchdown performance|
 |[Stacking Players](https://github.com/NihalSidhu/Stacking-Players)|Python (Pandas, Seaborn & Matplotlib)|Data processing, model deployment & correlation analysis| Designed an optimal starting lineup strategy in fantasy football based on positional relationships and underlying player performance data|
+|[Fantasy Football Draft Strategy](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy)|Python (Pandas & Seaborn)|Data cleaning, data blending & model development| Created a fantasy football draft rankings based on a player's value in comparison to their positional NFL counterpart |
 |[Usage vs Points Scored](https://github.com/NihalSidhu/Usage-vs-Points)|Python (Pandas, Seaborn & Matplotlib)|Data visualization & regression analysis| Found how player usage is linked to player production and how usage can be leveraged to make future fantasy football decisions|
 |[SQL Case Studies](https://github.com/NihalSidhu/Data-with-Danny-SQL-Challenge) |SQL|Joins, nested queries & aggregations| Solutions to various SQL case study challenges to showcase my proficiency in SQL|
 |[New York Housing Analysis Dashboard](https://public.tableau.com/app/profile/nihal.sidhu/viz/NYHousingMarketDashboard/NYDashboard?publish=yes) |Tableau|Data Visualizations & Analytics| Dashboard used to understand the current state of the New York housing market|
