@@ -29,7 +29,7 @@ Hello there, I'm Nihal! I am currently a software engineer who likes to play aro
 
 - [Linkedin](https://www.linkedin.com/in/nihal-sidhu/)
 - [Email](mailto:nss94@cornell.edu)
-- [Resume]([https://github.com/NihalSidhu/NihalSidhu/files/13934862/NihalSidhuResume_GitHub.pdf](https://github.com/NihalSidhu/NihalSidhu/blob/main/NihalSidhuResume_GitHub.pdf)
+- [Resume]([https://github.com/NihalSidhu/NihalSidhu/files/13934862/NihalSidhuResume_GitHub.pdf](https://github.com/NihalSidhu/NihalSidhu/blob/main/NihalSidhuResume_GitHub.pdf))
 
 
 <!--
